@@ -636,6 +636,20 @@ h3{
 .space-footer{
     margin-bottom: 15px;
 }
+.icon-footer-i{
+    background-color: rgb(100, 3, 128);
+    width: 60px;
+    height: 59px;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.8;
+}
+.icon-footer-i:hover{ background-color: rgb(69, 3, 87);}
+.icon-footer{
+    font-size: 35px;
+    color: #e7dfdf;
+    padding: 13px;
+}
 /*End footer*/
 /*
 
