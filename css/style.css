@@ -75,7 +75,7 @@ ul li{
     color: #000;
 }
 .header-links {
-    color: rgb(27, 78, 78);
+    color: rgb(229, 241, 241);
     position: relative;
     padding-bottom: 7px;
     font-weight: 560;
@@ -207,7 +207,7 @@ div .customizible-h2{
     margin-top: 10px;
 }
 .customizible:hover .customizible-h2{
-    color: #620d2d;
+    color: #fff;
 }
 div .customizible-p{
     font-size: 16px;
@@ -219,7 +219,7 @@ div .customizible-p{
     padding: 15px 0;
 }
 .customizible:hover .customizible-p{
-    color: #620d2d;
+    color: #fff;
 }
 .customizible-link{
     text-transform: capitalize;
@@ -459,6 +459,9 @@ div .customizible-p{
     float: left;
     margin-left: 13%;  
 }
+div .h2-sec5{
+    color: #fff;
+}
 .icon-p{
     margin: 0;
     margin-left: 8px;
@@ -475,7 +478,9 @@ div .customizible-p{
 pre{
     font-size: 20px;
     margin: 20px 0;
+    font-weight: 700;
 }
+
 h3{
     width: 100px;
     height: 89px;
